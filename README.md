@@ -71,7 +71,7 @@ Hi,I'm Hitesh Saha🙌, a Full Stack Web Developer, DevOps Engineer and Cloud En
 
 ### Github Stats
 
-![Hitesh's github stats](https://github-readme-stats.vercel.app/api?username=Hitesh-Saha&show_icons=true&hide_border=true)
+![Hitesh's github stats](https://github-readme-stats.vercel.app/api?username=Hitesh-Saha&show_icons=true&hide_border=true&theme=dark)
 
 ### Languages Used
 
