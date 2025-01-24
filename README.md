@@ -10,7 +10,7 @@ Hi,I'm Hitesh Saha🙌, a Full Stack Web Developer, DevOps Engineer and Cloud En
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working as a software consultant at Mercedes Benz Research and Development India.
-- 🌱 I’m currently learning DevOps and Data Engineering.
+- 🌱 I’m currently learning DevOps and Cyber Security.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
