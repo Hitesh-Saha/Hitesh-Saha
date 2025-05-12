@@ -1,6 +1,6 @@
 # Hello World 👋 It's [Hitesh!]
 
-Hi,I'm Hitesh Saha🙌, a Full Stack Web Developer, DevOps Engineer and Cyber security Enthusiast based in India. Currently working at Mercedes-Benz R&D India, with 3+ years of experience in building scalable full-stack applications.
+Hi,I'm Hitesh Saha🙌, a Full Stack Web Developer, DevOps Engineer and Cyber Security Enthusiast based in India. Currently working at Mercedes-Benz R&D India, with 3+ years of experience in building scalable full-stack applications.
 
 Welcome to my github profile! here you will find some of my latest projects and contributions. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
