@@ -48,6 +48,7 @@ Welcome to my github profile! here you will find some of my latest projects and 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,next,vue,react,html,css,cpp,python,tailwind,bootstrap,sass,materialui,npm,pinia,redux,vite,nodejs,express,fastapi,mongodb,postgres,supabase,firebase,prisma,docker,nginx,azure,aws,netlify,vercel,bash,linux,ubuntu,kali,git,github,vscode,postman,githubactions,ai,sentry" />
 </p>
+
 ---
 
 ### 📊 Github Stats
