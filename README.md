@@ -1,6 +1,6 @@
 # Hello World 👋 It's [Hitesh!]
 
-Hi,I'm Hitesh Saha🙌, a Full Stack Web Developer, AI Developer, DevSecOps Engineer and Cyber Security Enthusiast based in India. Currently working at Mercedes-Benz R&D India, with 3+ years of experience in building scalable full-stack applications.
+Hi,I'm Hitesh Saha🙌, a Full Stack Web Developer, AI Developer, DevSecOps Engineer and Cyber Security Enthusiast based in India. Currently working at Boeing as Software Engineer II, with 4+ years of experience in building scalable full-stack applications.
 
 Welcome to my github profile! here you will find some of my latest projects and contributions. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
@@ -12,7 +12,8 @@ Welcome to my github profile! here you will find some of my latest projects and 
   
 ### 💫 **Talking about Personal Stuffs**
 
-- 🔭 I’m currently working as a **Software Consultant** at **Mercedes Benz Research and Development India**.
+- 🔭 I’m currently working as a **Software Enginner II** at **Boeing India**.
+- 💼 Previously worked as **Software Consultant** at **Mercedes Benz Research and Development India**.
 - 🧠 I’m building platform agnostic solutions to modern problems using AI integrations and serverless approach.
 - 🌱 Learning more about DevOps, Cyber Security and AI Ecosystem.
 - 👯 Part of Developer Community.
@@ -26,7 +27,7 @@ Welcome to my github profile! here you will find some of my latest projects and 
 
 ### 🚀 **Tech Stack**
 
-- 💻 **Frontend:** Vue, React, Next.js, JavaScript, TypeScript, TailwindCSS, MaterialUI
+- 💻 **Frontend:** Vue, React, Next.js, JavaScript, TypeScript, TailwindCSS, MaterialUI, Redux RTK, Tanstack Query
 - 🔧 **Backend:** Python, FastAPI, Node.js, Express.js, Supabase, Firebase, Postgresql, Mongo DB  
 - 🧰 **DevOps:** Docker, Azure DevOps, Pivotal Cloud Foundry, Github Actions, Bash 
 - 🔐 **Cybersecurity:** OWASP, Secure Code Practices, Pentesting, Burp Suite
