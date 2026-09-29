@@ -39,7 +39,7 @@ Welcome to my github profile! here you will find some of my latest projects and 
 <a href="mailto:hiteshsaha52@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hitesh-saha-5401671b3/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" /></a>&nbsp;&nbsp;
 <a href="https://hiteshsaha.netlify.app"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="30" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/storm_charger_03/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/its_hitesh_dev/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" /></a>&nbsp;&nbsp;
 <a href="https://x.com/hiteshsaha03?s=21" target="_blank"><img src="https://cdn.simpleicons.org/x/1DA1F2" width="30" /></a>
 
 ---
@@ -47,7 +47,7 @@ Welcome to my github profile! here you will find some of my latest projects and 
 ### 💻 **Languages and Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,next,vue,react,html,css,cpp,python,tailwind,bootstrap,sass,materialui,npm,pinia,redux,vite,nodejs,express,fastapi,mongodb,postgres,supabase,firebase,prisma,docker,nginx,azure,aws,netlify,vercel,bash,linux,ubuntu,kali,git,github,vscode,postman,githubactions,ai,sentry" />
+  <img src="https://skillicons.dev/icons?i=ts,js,next,vue,react,html,css,cpp,python,tailwind,bootstrap,sass,materialui,npm,pinia,redux,vite,nodejs,express,fastapi,flask,mongodb,postgres,supabase,firebase,prisma,docker,nginx,azure,aws,netlify,vercel,bash,linux,ubuntu,kali,git,github,vscode,postman,githubactions,ai,sentry,kubernetes,openshift" />
 </p>
 
 ---
