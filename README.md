@@ -55,13 +55,11 @@ Welcome to my github profile! here you will find some of my latest projects and 
 ### 📊 Github Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hitesh-Saha&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="200px" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Saha&layout=compact&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="200px" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Hitesh-Saha&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="200px" width="50%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hitesh-Saha&layout=compact&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="200px" width="49%"/>
 </p>
 
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Hitesh-Saha&theme=dark&hide_border=false" height="200px" width="100%"/>
-
-
+<img align="center" src="https://streak-stats.demolab.com/?user=Hitesh-Saha&theme=dark&hide_border=false" height="200px" width="100%"/>
 
 
 
